@@ -1,1 +1,1 @@
-# Glitter Homebrew Tap
+# A tap for projects
