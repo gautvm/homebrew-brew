@@ -6,6 +6,6 @@ class Glitter < Formula
     version "1.1.1"
   
     def install
-      bin.install "tle"
+      bin.install "glitter"
     end
   end
