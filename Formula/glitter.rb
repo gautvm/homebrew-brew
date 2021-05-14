@@ -2,8 +2,8 @@ class Glitter < Formula
     desc "Git tooling of the future"
     homepage "https://github.com/Milo123459/glitter"
     url "https://github.com/Milo123459/glitter/releases/latest/download/glitter-x86_64-apple-darwin.tar.gz"
-    sha256 "cdeabd36d717257f0e7d0528cf8af4419551f63795cbf39aac99d4e756f6f0d8 "
-    version "1.2.0"
+    sha256 "299ebd5edbb2ecad7dd7552c4c3c4622677487fede9831b3695b352f5daeec57"
+    version "1.3.0"
   
     def install
       bin.install "glitter"
